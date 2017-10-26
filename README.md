@@ -1,4 +1,4 @@
-# LINE Notifyをnode.jsで通知
+# LINE Notifyをnode.jsで通知
 
 ## 事前準備
 
@@ -22,4 +22,6 @@ $ node main.js
 notify message : こんにちは！
 { status: 200, message: 'ok' }
 ```
+
+LINEトークルーム画面での送信結果
 ![結果](line_notify_sample.jpg)
