@@ -2,3 +2,6 @@
 node_modules
 .DS_Store
 .envrc
+
+# 個人ブログ執筆用エリア
+blog
