@@ -7,3 +7,7 @@ phases:
   build:
     commands:
       - node main.js
+
+cache:
+  paths:
+    - './node_modules/**/*'
